@@ -1,0 +1,2 @@
+# rigsquash-privacy
+Privacy policy
